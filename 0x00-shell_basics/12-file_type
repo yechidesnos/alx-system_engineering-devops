@@ -1,0 +1,2 @@
+#!/bin/bash
+cd /tmp ; touch iamafile ; mv iamafile /tmp ; file /tmp/iamafile
