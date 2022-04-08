@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /tmp/h ; cd /tmp/h ; echo "Hello , World"
+echo "Hello, World"
